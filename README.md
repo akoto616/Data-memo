@@ -1,5 +1,4 @@
-Data-memo
-=========
+draft-data-beat-memo.md=========
 
 Crime in Chicago
 I don’t think I have what we would describe as a traditional beat, but I’ve mostly written and edited pieces about African American lives and their intersections with racism, feminism, sexism and music.
